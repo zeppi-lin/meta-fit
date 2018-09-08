@@ -180,6 +180,7 @@ CONFIG_USB_USBNET=m
 CONFIG_USB_NET_CDC_EEM=m
 CONFIG_BCMDHD=m
 CONFIG_BCMDHD_SDIO=m
+CONFIG_BCM4339=m
 CONFIG_BCMDHD_FW_PATH="/lib/firmware/brcm/fw_bcmdhd.bin"
 CONFIG_BCMDHD_NVRAM_PATH="/lib/firmware/brcm/bcmdhd.cal"
 # CONFIG_RTL_CARDS is not set
